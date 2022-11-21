@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pablorodrigs
-- 👀 I’m interested in Python, C++,SQML,HACKING
-- 🌱 I’m currently learning C++, Python
+- 👀 I’m interested in Python, JAVA,SQML,HACKING
+- 🌱 I’m currently learning JAVA, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
